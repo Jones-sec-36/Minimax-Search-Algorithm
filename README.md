@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Mourya G         </h3>
-<h3>Register Number: 212224230170        </h3>
+<h3>Name: Jones Benedict A P        </h3>
+<h3>Register Number: 212224040142        </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
